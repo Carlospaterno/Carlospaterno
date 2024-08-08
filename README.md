@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Bem vindo ao meu perfil!
+Meu nome é Carlos Fernando, sou aluno do Colégio Princesa Isabel.
 <!--
 **Carlospaterno/Carlospaterno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
